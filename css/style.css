@@ -1,0 +1,16 @@
+body{
+    text-align:center;
+}
+h1{
+    color:teal;
+}
+hr{
+    width:35rem;
+    background-color:teal;
+}
+ul{
+    text-align:left;
+    margin-right:25rem;
+    margin-left:25rem;
+    font-size:24px;
+}
